@@ -185,11 +185,11 @@ For issues that don't fit a specific repo, or if you're unsure, email **security
 
 Reports without reproduction steps, demonstrated impact, and remediation advice will be deprioritized. Given the volume of AI-generated scanner findings, we must ensure we're receiving vetted reports from researchers who understand the issues.
 
-## How to develop the page of UI in OpenClaw
+## How to Develop the UI in OpenClaw
 
 To develop and debug the UI, follow these steps:
 
-1.  Ensure you have **pnpm >= 10.23** installed.
+1.  Ensure you have **Node.js >= 22.12.0** and **pnpm >= 10.23** installed.
 2.  Install dependencies:
     ```bash
     pnpm install
